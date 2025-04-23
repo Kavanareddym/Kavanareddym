@@ -64,10 +64,6 @@
 - Exploring full-stack development  
 - Collaborating with open-source  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
-</div>
-
 ---
 
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
