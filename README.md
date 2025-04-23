@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavana Reddy M</h1>
+<h1 align="center">Hi, I'm Kavana Reddy M</h1>
 <h3 align="center">🚀 A passionate Frontend Developer from India 🇮🇳</h3>
 
 <div align="center">
