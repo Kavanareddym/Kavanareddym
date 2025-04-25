@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Kavana Reddy M 👋</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
@@ -11,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kavanareddym&theme=onedark&no-frame=true&column=7" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kavanareddym&theme=onedark&no-frame=true&column=7&no-bg=true" alt="trophies" />
   </a>
 </p>
 
@@ -40,19 +39,9 @@
 
 ---
 
-### 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 💬 **Law Nova** | AI Legal Advisor chatbot for common people to get help understanding legal issues | `HTML`, `CSS`, `JavaScript`, `Django`, `Ollama AI` |
-| 📚 **Portfolio Website** | My own responsive portfolio with animations and dark mode | `HTML`, `CSS`, `JavaScript`, `GSAP` |
-| 🚦 **Smart Parking System** | Simulated IoT system using Arduino & IR sensors | `Arduino`, `TinkerCAD`, `C/C++` |
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavanareddym&show_icons=true&theme=github_dark&locale=en" alt="kavanareddym stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavanareddym&show_icons=true&theme=github_dark&locale=en&hide=prs,issues,contribs" alt="kavanareddym stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavanareddym&layout=compact&theme=github_dark" alt="Top Langs" />
@@ -66,10 +55,9 @@
 ---
 
 ### 🎯 Currently working on...
-- ✨ UI-focused side projects
-- 🌐 Learning backend with Django
-- 🧠 Trying AI integrations with real use-cases
-- 🤝 Collaborating on open-source and student-led projects
+- ✨ UI-focused side projects  
+- 🌐 Learning backend with Django  
+- 🧠 Trying AI integrations with real use-cases  
+- 🤝 Collaborating on open-source and student-led projects  
 
 ---
-
