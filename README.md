@@ -24,7 +24,7 @@
 ### 🛠️ Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,react,figma,bootstrap,java,mysql,c,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,java,mysql,c,githu&theme=dark" />
 </p>
 
 ---
