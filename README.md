@@ -38,15 +38,16 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-1%2B%20Years-blue?style=flat-square&logo=github" alt="Experience Badge"/>
-  <img src="https://img.shields.io/github/commit-activity/y/kavanareddym/kavanareddym?style=flat-square&color=brightgreen" alt="Total Commits Badge"/>
+  <img src="https://img.shields.io/github/commit-activity/m/kavanareddym/kavanareddym?style=flat-square&color=brightgreen" alt="Total Commits Badge"/>
   <img src="https://img.shields.io/badge/Public%20Repos-12-blueviolet?style=flat-square&logo=codeforces" alt="Public Repos Badge"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavanareddym&show_icons=true&theme=github_dark&locale=en&hide=stars,issues,prs,contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kavanareddym&show_icons=true&theme=github_dark&locale=en&hide=contribs" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavanareddym&layout=compact&theme=github_dark" alt="Top Languages" />
