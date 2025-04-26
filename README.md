@@ -1,67 +1,73 @@
-<h1 align="center">Hi, I'm Kavana Reddy M 👋</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from India 🇮🇳</h3>
+<!-- Futuristic Sci-Fi Banner -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/62/0e/ea/620eea8b9be7abeb630def5bd14782c6.gif" alt="Sci-Fi Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Kavana Reddy M</h1>
+<h3 align="center">🚀 Frontend Developer | Future Technologist | Code Dreamer</h3>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=Crafting+Interactive+UIs;Exploring+AI+Integration;Building+Futuristic+Web+Apps" alt="Typing SVG" />
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kavanareddym&label=Profile%20views&color=0e75b6&style=flat" alt="kavanareddym" />
-</p>
+---
+
+### 🧬 Mission Briefing
+
+- 🛠️ Crafting responsive, stunning UIs
+- 🌌 Learning full-stack development (Django, APIs)
+- 🤖 Integrating futuristic tech into web projects
+- 📡 Focused on meaningful innovation
 
 ---
 
-- 🌱 I’m currently learning **Django & Full-Stack Development**
-- ✨ Building beautiful, responsive, and interactive web UIs
-- 💡 I love solving real-world problems with code
-- 📫 Reach me at: **mkavana06@gmail.com**
-- ⚡ Fun fact: _“The best way to predict the future is to invent it!”_
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="mailto:mkavana06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kavanareddym"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,java,mysql,react,figma,bootstrap,c" />
-</p>
-
----
-
-### 📌 GitHub Overview & Experience
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Experience-1%2B%20Years-blue?style=flat-square&logo=github" alt="Experience Badge"/>
-  <img src="https://img.shields.io/github/commit-activity/m/kavanareddym/kavanareddym?style=flat-square&color=brightgreen" alt="Total Commits Badge"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-12-blueviolet?style=flat-square&logo=codeforces" alt="Public Repos Badge"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 🛠️ Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavanareddym&show_icons=true&theme=github_dark&locale=en&hide=contribs" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,react,figma,bootstrap,java,mysql,c,git,github&theme=dark" />
 </p>
+
+---
+
+### 🛰️ GitHub Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavanareddym&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavanareddym&layout=compact&theme=tokyonight" width="320px"/>
+</div>
+
+---
+
+### 🛡️ Achievements
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavanareddym&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kavanareddym&theme=algolia&no-frame=true&margin-w=15&row=1" />
 </p>
 
 ---
 
-### 💬 Developer Quote of the Day
-> _“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”_ – Martin Fowler
+### 📡 Contact Transmission
+
+<p align="center">
+  <a href="mailto:mkavana06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kavanareddym">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🎯 Currently working on...
-- ✨ UI-focused side projects  
-- 🌐 Learning backend with Django  
-- 🧠 Trying AI integrations with real use-cases  
-- 🤝 Collaborating on open-source and student-led projects  
+### 💬 Final Transmission
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1500&color=0FF1FF&center=true&vCenter=true&width=600&lines=Inventing+the+Future+One+Line+at+a+Time.;Dream.+Code.+Explore.;Reality+is+Malleable+to+Creativity." alt="Closing Typing Animation" />
+</p>
+
+---
+
+<!-- Outro Sci-Fi Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
+</div>
