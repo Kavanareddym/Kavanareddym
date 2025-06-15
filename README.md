@@ -19,11 +19,13 @@
 - 🤖 Integrating futuristic tech into web projects
 - 📡 Focused on meaningful innovation
 
+---
+
 ### 🧭 Mission Timeline (Key Milestones)
-🌱 Selected as a 1M1B Green Intern – focused on tech-powered sustainability (2025)
-🛰️ Completed a 7-day internship with 1M1B, solving real-world climate challenges (2025)
-🏆 Achieved 2nd place in Student National Seminar 2K25 with my team (2025)
-🚀 Shortlisted for Round 2 of the NASA Space Apps Challenge – a global innovation hackathon (2024)
+- 🌱 Selected as a 1M1B Green Intern – focused on tech-powered sustainability (2025)
+- 🛰️ Completed a 7-day internship with 1M1B, solving real-world climate challenges (2025)
+- 🏆 Achieved 2nd place in Student National Seminar 2K25 with my team (2025)
+- 🚀 Shortlisted for Round 2 of the NASA Space Apps Challenge – a global innovation hackathon (2024)
 ---
 
 ### 🛠️ Arsenal
