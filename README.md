@@ -21,8 +21,10 @@
 
 ### 🧭 Mission Timeline
 
-- 2025: Selected as 1M1B Green Intern 🌱  
-- 2024: Built AI chatbot for law accessibility 🤖⚖️  
+🌱 2025: Selected as a 1M1B Green Intern — working on tech-powered sustainability
+🛰️ 2025: Completed a 7-day internship with 1M1B on real-world projects
+🏆 2025: Secured 2nd place in Student National Seminar 2K25 with my team
+🚀 2024: Shortlisted for Round 2 of the NASA Space Apps Challenge – Global Innovation Hackathon
 
 ---
 
