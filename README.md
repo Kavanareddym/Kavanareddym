@@ -19,6 +19,11 @@
 - 🤖 Integrating futuristic tech into web projects
 - 📡 Focused on meaningful innovation
 
+### 🧭 Mission Timeline
+
+- 2025: Selected as 1M1B Green Intern 🌱  
+- 2024: Built AI chatbot for law accessibility 🤖⚖️  
+
 ---
 
 ### 🛠️ Arsenal
