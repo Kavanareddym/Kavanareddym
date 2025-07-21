@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Kavana Reddy M</h1>
-<h3 align="center">🚀 Frontend Developer | Future Technologist | Code Dreamer</h3>
+<h3 align="center">🚀 Frontend Developer | Future Technologist | Code Dreamer | Mobile App Developer</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=500&lines=Crafting+Interactive+UIs;Exploring+AI+Integration;Building+Futuristic+Web+Apps" alt="Typing SVG" />
