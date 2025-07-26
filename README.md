@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/62/0e/ea/620eea8b9be7abeb630def5bd14782c6.gif" alt="Sci-Fi Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Kavana Reddy M!</h1>
+<h1 align="center">Hi, I'm Kavana Reddy M</h1>
 <h3 align="center">🚀 Frontend Developer | Future Technologist | Code Dreamer </h3>
 
 <div align="center">
