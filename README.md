@@ -43,9 +43,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavanareddym&layout=compact&theme=tokyonight" width="320px"/>
 </div>
 
+<!-- Futuristic Sci-Fi Banner -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/a6376fd94249e84a2defb8f58985dc835a13a47d1c8139035ac4dd4dbda66366/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416d6973686573686574747932303035267468656d653d64726163756c6126686964655f626f726465723d74727565" alt="Sci-Fi Banner" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavanareddym&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
