@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/62/0e/ea/620eea8b9be7abeb630def5bd14782c6.gif" alt="Sci-Fi Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Kavana Reddy M! </h1>
+<h1 align="center">Hi, I'm Kavana Reddy M </h1>
 <h3 align="center">🚀 Frontend Developer | Future Technologist | Code Dreamer </h3>
 
 <div align="center">
@@ -26,6 +26,7 @@
 - 🛰️ Completed a 7-day internship with 1M1B, solving real-world climate challenges (2025)
 - 🏆 Achieved 2nd place in Student National Seminar 2K25 with my team (2025)
 - 🚀 Shortlisted for Round 2 of the NASA Space Apps Challenge – a global innovation hackathon (2024)
+- 🌱 Selected as a Infosys Springboard Intern (2026)
 ---
 
 ### 🛠️ Arsenal
